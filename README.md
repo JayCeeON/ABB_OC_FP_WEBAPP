@@ -3,7 +3,7 @@
 This repository contains a WebApp designed for the ABB OmniCore FlexPendant, implemented in JavaScript and HTML. The WebApp enables control of controller inputs and outputs for the ABB system, allowing users to interact with machine signals and monitor processes directly from the FlexPendant interface. In this case the application is a coffe serving control, with nine different button funcionalities.
 
 
-![App_Icon](./AppIcon.png)
+![App_Icon](./App_Icon.png)
 
 ## Overview
 
